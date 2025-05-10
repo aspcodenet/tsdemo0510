@@ -1,6 +1,6 @@
 {
     "scripts": {
-    "dev": "npx nodemon"
+    "dev": "npx ts-node ./src/index.ts"
   },
 
   "dependencies": {
