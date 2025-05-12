@@ -1,5 +1,6 @@
 {
     "scripts": {
+<<<<<<< HEAD
         "dev": "npx ts-node ./src/index.ts"
     },
     "dependencies": {
@@ -12,4 +13,18 @@
         "ts-node": "^10.9.2",
         "typescript": "^5.8.3"
     }
+=======
+    "dev": "npx ts-node ./src/index.ts"
+  },
+
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+>>>>>>> 43349f47cc2699e926650432eee6477a1d69bbe3
 }
